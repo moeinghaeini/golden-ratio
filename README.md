@@ -1,6 +1,6 @@
 # Golden Ratio in Coding
 
-A comprehensive guide to the golden ratio (φ) and its applications in programming, data engineering, and data analysis.
+A guide to the golden ratio (φ) and its applications in programming, data engineering, and data analysis.
 
 ## Overview
 
